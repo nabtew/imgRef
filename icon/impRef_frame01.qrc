@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="test">
+    <file>create2_text.png</file>
+    <file>window_icon.png</file>
+    <file>pic_button.png</file>
+    <file>line_BG.png</file>
+    <file>selectCam_button.png</file>
+    <file>rename_box.png</file>
+    <file>create_text.png</file>
+    <file>create_button.png</file>
+    <file>heart_button.png</file>
+    <file>owo_button.png</file>
+    <file>BG.png</file>
+    <file>Q_button.png</file>
+    <file>ok_button.png</file>
+  </qresource>
+</RCC>
